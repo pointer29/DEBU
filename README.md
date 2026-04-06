@@ -25,6 +25,7 @@ This project is still in early development. Many components are not yet finalize
 | **PCM5102A** | DAC Decoder Board with I2S Interface |
 | **Speaker** | Mini 3 Watt Speaker |
 | **OLED Display** | 128x64 0.96 inch I2C LCD Display |
+| **TTP223** | Capacitive Touch Sensor Module |
 
 ---
 
